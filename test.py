@@ -4,6 +4,7 @@ from core.lib.emulator import *
 from sys import argv
 print('i from core.lib.emulator import *')
 if source != open(sys.argv[1],'r').read():
+  print(source,open(sys.argv[1],'r').read())
   exit(1)
 if file != open(sys.argv[1],'w'):
   exit(2)
