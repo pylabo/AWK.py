@@ -4,7 +4,7 @@ AWK.py is a simple library to bring great AWK features to Python 3. AWK.py is co
 
 # References
 
-## * [Documentation](/docs "/docs")
+* ## [Documentation](/docs "/docs")
 
 # Installation
 
