@@ -6,17 +6,13 @@ AWK.py is a simple library to bring great AWK features to Python 3. AWK.py is co
 
 ## Debian based packages (Debian, Ubuntu, Raspbian, ...)
 
-1. Install Python 3 or `sudo apt install python3`/`sudo apt-get install python3`.
+1. Download .zip/.tar.gz or clone .git and extract/clone or `tar -xvf <version>.tar.gz`/`git clone github.com/python3lover/AWK.py.git`.
 
-2. Go to /usr/lib/python3 or `cd /usr/lib/python3`.
+2. If cloned, rename directory to "awk-py" or `mv AWK.py awk-py`.
 
-3. Make new directory "awk-py" or `mkdir awk-py`.
+3. Done! Try some examples at /examples or `python3 /usr/lib/python3/awk-py/examples/replace.py`.
 
-4. Download .zip/.tar.gz or clone .git and extract/clone or `tar -xvf <version>.tar.gz`/`git clone github.com/python3lover/AWK.py.git`.
-
-5. If cloned, rename directory to "awk-py" or `mv AWK.py awk-py`.
-
-5. Done! Try some examples at /examples or `python3 /usr/lib/python3/awk-py/examples/replace.py`.
+* More at /docs/install.md
 
 ## Windows
 
