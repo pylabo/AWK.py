@@ -1,8 +1,3 @@
-# AWK.py
-The new AWK.
-
-* Also available at python3lover.github.io/AWK.py/
-
 # Overview
 
 AWK.py is a simple library to bring great AWK features to Python 3. AWK.py is compatible with Python 2 (not tested).
