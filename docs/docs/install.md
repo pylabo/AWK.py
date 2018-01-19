@@ -1,4 +1,4 @@
-[/](/AWK.py "/") [docs](/AWK.py/docs "/docs") / [install.md](/AWK.py/docs/install "/docs/install")
+[/](/AWK.py "/") [docs /](/AWK.py/docs "/docs") [install.md](/AWK.py/docs/install "/docs/install")
 
 # Installation
 
