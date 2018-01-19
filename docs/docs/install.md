@@ -1,6 +1,6 @@
-# Installation
+[/](/AWK.py/ "/") [docs /](/AWK.py/docs/ "/docs") [install.md](/AWK.py/docs/install "/docs/install")
 
-/docs/install.md
+# Installation
 
 ## Debian based packages (Debian, Ubuntu, Raspbian, ...)
 
