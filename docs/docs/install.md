@@ -1,5 +1,7 @@
 # Installation
 
+/docs/install.md
+
 ## Debian based packages (Debian, Ubuntu, Raspbian, ...)
 
 1. Install Python 3 or `sudo apt install python3`/`sudo apt-get install python3`.
