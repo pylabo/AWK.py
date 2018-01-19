@@ -2,6 +2,10 @@
 
 AWK.py is a simple library to bring great AWK features to Python 3. AWK.py is compatible with Python 2 (not tested).
 
+# References
+
+## [Documentation](/docs "/docs")
+
 # Installation
 
 ## Debian based packages (Debian, Ubuntu, Raspbian, ...)
