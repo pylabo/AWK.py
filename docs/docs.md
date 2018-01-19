@@ -1,5 +1,6 @@
 # Docs
+/docs.md
 
 ## Contents
 
-* [Installation](/docs/install "/docs/install")
+* [Installation](/AWK.py/docs/install "/docs/install")
