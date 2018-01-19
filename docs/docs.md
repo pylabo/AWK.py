@@ -1,4 +1,4 @@
-[/](/AWK.py/ "/")[docs.md](/AWK.py/docs/ "/docs")
+[/](/AWK.py/ "/") [docs.md](/AWK.py/docs/ "/docs")
 
 # Docs
 
