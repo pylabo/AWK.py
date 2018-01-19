@@ -1,5 +1,5 @@
 # Docs
-/docs.md
+[/](/AWK.py/ "/")[docs.md](/AWK.py/docs/ "/docs")
 
 ## Contents
 
