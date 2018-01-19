@@ -6,8 +6,8 @@ print('i from core.lib.emulator import *')
 # if source != open(sys.argv[1],'r').read():
 #   print(source,open(sys.argv[1],'r').read())
 #   exit(1)
-if file != open(sys.argv[1],'w'):
-  exit(2)
+# if file != open(sys.argv[1],'w'):
+#   exit(2)
 if path != sys.argv[1]:
   exit(3)
 if options != sys.argv[2:]:
