@@ -33,7 +33,7 @@ Technically same with Linux.
 * `path` is where file is located
 * `options` is options given when run
 * `end` is function to end instance (`end(file,source)`).
-* Other variables are coming soon...
+* Other objects are coming soon...
 
 # Author
 
