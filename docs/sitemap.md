@@ -1,7 +1,11 @@
 # Site Map
 
-## About
+* ## [/](/AWK.py "/")
 
-## Instaration 
+* ## /About
 
-## Usage
+* ## /Docs
+  
+  * ## /Docs/Installation
+  
+  * ## /Docs/Usage
