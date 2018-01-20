@@ -1,6 +1,6 @@
 [/](/AWK.py/ "/")
 
-[Sitemap](/AWK.py/sitemap/ "/sitemap")
+[Sitemap](/AWK.py/sitemap "/sitemap")
 
 # Overview
 
