@@ -2,10 +2,10 @@
 
 * ## [/](/AWK.py "/")
 
-* ## /About
+* ## [/About](/"About")
 
-* ## /Docs
+* ## [/Docs](/README.md "Docs")
   
-  * ## /Docs/Installation
+* ## [/Docs/Installation](/docs/install.md "Docs/Installation")
   
-  * ## /Docs/Usage
+* ## [/Docs/Usage](/docs/usage.md "Docs/Usage")
