@@ -5,7 +5,7 @@
 
 * [![By FelicianoTech (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg)Circle CI](https://circleci.com/gh/pylabo/AWK.py "Circle CI")
 
-* [![](https://app.buddy.works/icons/favicon-32x32.png)BuddyWorks CI](https://app.buddy.works/python3lover/awk-py/pipelines "BuddyWorkd CI")
+* [![](https://app.buddy.works/icons/favicon-16x16.png)BuddyWorks CI](https://app.buddy.works/python3lover/awk-py/pipelines "BuddyWorkd CI")
 
 * [Semaphore CI](https://semaphoreci.com/python3lover/awk-py/ "Semaphore CI")
 
