@@ -42,6 +42,10 @@ Technically same with Linux.
 
 AWK.py is made by @python3lover (GitHub and GitLab) and @html5lover (Github)
 
+## Other Projects by [PyLabo](https://github.com/pylabo "PyLabo on GitHub")
+
+* ### [PythonCI - Customizable CI with Python](https://pylabo.github.io/PythonCI "PythonCI")
+
 # Contributions
 
 Contributions are welcome! But please don't mess AWK.py up.
