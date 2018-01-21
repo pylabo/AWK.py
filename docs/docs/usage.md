@@ -1,6 +1,5 @@
 [/](/AWK.py/ "/")[Usage](/AWK.py/usage "/usage")
-
-[Sitemap](/AWK.py/sitemap/ "/sitemap")
+[Sitemap](/AWK.py/sitemap "/sitemap")
 
 # Usage
 
