@@ -3,9 +3,11 @@
 
 # Builds
 
-[Circle CI](https://circleci.com/gh/pylabo/AWK.py "Circle CI")
-[BuddyWorks CI](https://app.buddy.works/python3lover/awk-py/pipelines "BuddyWorkd CI")
-[Semaphore CI](https://semaphoreci.com/python3lover/awk-py/ "Semaphore CI")
+* [Circle CI](https://circleci.com/gh/pylabo/AWK.py "Circle CI")
+
+* [BuddyWorks CI](https://app.buddy.works/python3lover/awk-py/pipelines "BuddyWorkd CI")
+
+* [Semaphore CI](https://semaphoreci.com/python3lover/awk-py/ "Semaphore CI")
 
 # Overview
 
