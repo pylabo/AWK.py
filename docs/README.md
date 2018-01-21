@@ -1,6 +1,12 @@
 [/](/AWK.py/ "/")
 [Sitemap](/AWK.py/sitemap "/sitemap")
 
+# Builds
+
+[Circle CI](https://circleci.com/gh/pylabo/AWK.py "Circle CI")
+[BuddyWorks CI](https://app.buddy.works/python3lover/awk-py/pipelines "BuddyWorkd CI")
+[Semaphore CI](https://semaphoreci.com/python3lover/awk-py/ "Semaphore CI")
+
 # Overview
 
 AWK.py is a simple library to bring great AWK features to Python 3. AWK.py is compatible with Python 2 (not tested).
