@@ -41,7 +41,7 @@ Technically same with Linux.
 
 # Author
 
-AWK.py is made by @python3lover (GitHub and GitLab)
+AWK.py is made by @python3lover (GitHub and GitLab) and @html5lover (Github)
 
 # Contributions
 
