@@ -13,4 +13,4 @@
 
     * ## [/](/AWK.py "/")[Docs](/AWK.py/docs "/docs")/[Usage](/AWK.py/docs/usage "/docs/usage")
     
-  * ## [/](/AWK.py "/")[Examples](/AWK.py/docs/docs/examples.md "/docs")
+  * ## [/](/AWK.py "/")[Examples](/AWK.py/docs/examples.md "/docs")
