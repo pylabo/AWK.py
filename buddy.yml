@@ -1,0 +1,14 @@
+- pipeline: "Error Test"
+  trigger_mode: "ON_EVERY_PUSH"
+  ref_name: "master"
+  actions:
+  - action: "Execute: nosetests"
+    type: "BUILD"
+    docker_image_name: "library/python"
+    docker_image_tag: "latest"
+    execute_commands:
+    - "pip install -r .buddyci/requirements.txt"
+    - "python3 .buddyci/test.py"
+    cached_dirs:
+    - "/root/.cache/pip"
+    trigger_condition: "ALWAYS"
