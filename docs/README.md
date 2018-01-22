@@ -31,7 +31,7 @@ AWK.py is a simple library to bring great AWK features to Python 3. AWK.py is co
 
 ## Windows
 
-![YouTube - AWK.py Installation & Basics](https://www.youtube-nocookie.com/embed/uzBQAzvFB9s?rel=0 "www.youtube-nocookie.com/embed/uzBQAzvFB9s?rel=0")
+[YouTube - AWK.py Installation & Basics](https://www.youtube-nocookie.com/embed/uzBQAzvFB9s?rel=0 "www.youtube-nocookie.com/embed/uzBQAzvFB9s?rel=0")
 
 ## Darwin/FreeBSD mashed up with OLD Mac OS X/Mac OS X
 
