@@ -1,12 +1,20 @@
-# Examples/Projects
+# Example Projects
 
-## Project #1 |
+## Replace
 
-This project ...
+/examples/replace
 
-## Project #2 |
+### replace.py
+Replaces [callin:1] with [callin:2] in [callin:0].
 
-This Project .....
+## Capitalise
 
-## More Projects Coming Soon....
-So stay tuned
+/examples/caps
+
+### up.py
+Capitalizes all letters in given text and returns in stdout.
+
+### low.py
+Decapitalizes all letters in given textand returns in stdout.
+
+## More examples coming soon!
