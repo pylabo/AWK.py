@@ -6,3 +6,4 @@
 
 * [Installation](/AWK.py/docs/install "/docs/install")
 * [Usage](/AWK.py/docs/usage "/docs/usage")
+* [Examples](/AWK.py/docs/examples "/docs/examples")
