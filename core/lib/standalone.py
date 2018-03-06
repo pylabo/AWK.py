@@ -1,8 +1,9 @@
 '''
-awk-py.standalone 0.0.0 Canary
+awk-py.standalone 0.1.1 Canary
 '''
 import sys
 import re
+version = [0,1,1]
 path = sys.argv[0]
 encoding = 'utf-8'
 if len(sys.argv) >= 2 and sys.argv[1] != 'utf-8':
