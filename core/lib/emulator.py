@@ -1,5 +1,5 @@
 '''
-awk-py.emulator 0.0.0 Canary
+awk-py.emulator 0.1.0 Canary
 '''
 import sys
 path = sys.argv[1]
