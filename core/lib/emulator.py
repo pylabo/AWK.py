@@ -1,8 +1,8 @@
 '''
-awk-py.emulator 0.1.0 Canary
+awk-py.emulator 0.1.1 Canary
 '''
 import sys
-import re as re
+import re
 path = sys.argv[1]
 encoding = 'utf-8'
 if len(sys.argv) >= 3 and sys.argv[2] != 'utf-8':
