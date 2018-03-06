@@ -2,6 +2,7 @@
 awk-py.standalone 0.0.0 Canary
 '''
 import sys
+import re
 path = sys.argv[0]
 encoding = 'utf-8'
 if len(sys.argv) >= 2 and sys.argv[1] != 'utf-8':
@@ -16,3 +17,7 @@ options = sys.argv[2:]
 def end(file,source):
     file.write(source)
     file.close()
+def run(cmd,path,stdin):
+    from subprocess import Popen
+    redoInst = Popen([cmd,path]+args)
+    return redoInst.communicate(stdin)
